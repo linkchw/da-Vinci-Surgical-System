@@ -23,6 +23,7 @@ You can install the required packages using pip:
 
 ```bash
 pip install opencv-python numpy
+```
 
 ## Documentation
 
