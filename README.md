@@ -23,3 +23,11 @@ You can install the required packages using pip:
 
 ```bash
 pip install opencv-python numpy
+
+## Documentation
+
+For a detailed explanation of the project and its components in Persian, please refer to the following document:
+
+[Persian Document on Google Docs](https://docs.google.com/document/d/1tc2sFyFv4qnWBKGIZp51objYXnKQNl82DMkY52f90go/edit?usp=sharing)
+
+
