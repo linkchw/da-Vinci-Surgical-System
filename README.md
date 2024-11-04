@@ -34,13 +34,13 @@ The simulation will process the image, detect tumors, and display the results. T
 Below is a sample Input of the project, that we uses:
 Main Picture (Before Surgery)
 
-![Surgery Before](MRI-Brain-Images-abenign-bmalignant-images.jpg)
+<div align="center"> ![Surgery Before](MRI-Brain-Images-abenign-bmalignant-images.jpg) </div>
 
 
 This image shows the original brain MRI with the detected tumor highlighted in purple.
 Result Picture (Before and After Surgery)
 
-![Surgery Result](surgery_result.jpg)
+<div align="center"> ![Surgery Result](surgery_result.jpg) </div>
 
 This image displays the processed brain MRI after the tumor has been removed, with the tumor area marked in green and a darker highlight.
 
