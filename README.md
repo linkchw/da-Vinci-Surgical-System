@@ -29,17 +29,19 @@ pip install opencv-python numpy
 ## View Results
 The simulation will process the image, detect tumors, and display the results. The combined image showing the "Before" and "After" states will be saved as surgery_result.jpg in the project directory.
 
-## Sample Output
+## Sample Input
 
-Below is a sample output of the project, showing the combined before and after images:
+Below is a sample Input of the project, that we uses:
 Main Picture (Before Surgery)
+
 ![Surgery Before](MRI-Brain-Images-abenign-bmalignant-images.jpg)
 
 
 This image shows the original brain MRI with the detected tumor highlighted in purple.
-Result Picture (After Surgery)
+Result Picture (Before and After Surgery)
 
 ![Surgery Result](surgery_result.jpg)
+
 This image displays the processed brain MRI after the tumor has been removed, with the tumor area marked in green and a darker highlight.
 
 
