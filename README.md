@@ -22,7 +22,7 @@ To run this project, you need to have the following installed:
 You can install the required packages using pip:
 
 ```bash
-pip install opencv-python numpy
+pip install -r requer.txt
 ```
 
 
